@@ -1,0 +1,30 @@
+.classroom_btn{
+    background: #F1F3FD;
+    color: #ACB7EB;
+    border-radius: 12px;
+    padding: 0.5em 1em;
+    outline: none;
+    opacity: 0.5;
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 1em;
+    /* width: 15em; */
+    /* height: 2em; */
+}
+
+.classroom_btn > div{
+    width: 12px;
+}
+
+.classroom_img{
+    width: 100%;
+}
+
+.classroom_btn button{
+    border: none;
+}
+
+.classroom_btn:hover{
+    opacity: 0.8;
+}

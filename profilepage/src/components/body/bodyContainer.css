@@ -1,0 +1,13 @@
+.body{
+    height: calc(100vh - 43px);
+    display: flex;
+    align-items: center;
+}
+
+.body_left{
+    width: 30%;
+}
+
+.body_right{
+    width: 70%;
+}
