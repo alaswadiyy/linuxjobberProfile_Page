@@ -12,7 +12,7 @@ import lab from '../assets/img/lab.svg'
 import './classroom.css'
 import Buttons from '../components/buttons/Buttons'
 
-//God abeg
+//God abeg make this thinh push
 const Classroom = () => {
     const[topic, setTopic] =useState(false)
     const[student, setStudent] = useState(false)
